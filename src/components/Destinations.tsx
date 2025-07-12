@@ -9,7 +9,7 @@ const destinations = [
   {
     id: 1,
     name: 'Santorini, Greece',
-    image: 'https://images.pexels.com/photos/161901/santorini-travel-island-161901.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+    image: 'https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRrz83Efd639L6APcl-VNRrn8Nbry5jvN5XeWKi0Obl45G8RRhsjnMKadTO9ZwHjZc8hv59RDpF_w_uI-2Elf8r34mL574K-aDWwV4HSw',
     price: '$1,299',
     rating: 4.9,
     reviews: 1247,
